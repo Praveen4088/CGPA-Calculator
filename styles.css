@@ -7,8 +7,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
-    
+    background-color: #f0f0f0;  
 }
 
 .container {
@@ -25,7 +24,6 @@ body {
     -ms-overflow-style: none;  
     width: 90%;
     max-width: 500px;
-    
 }
 
 .container::-webkit-scrollbar {
@@ -61,7 +59,6 @@ table {
 }
 
 
-
 th, td {
     padding: 10px;
     border: 1px solid #ddd;
@@ -84,7 +81,6 @@ input[type="text"]:focus, input[type="number"]:focus, textarea:focus {
     outline-style: solid; 
 }
 
-
 select {
     
     padding: 10px;
@@ -94,8 +90,6 @@ select {
     margin-top: 10px;
     box-sizing: border-box; 
     text-align: start;
-    
-   
 }
 
 select:focus {
@@ -133,8 +127,7 @@ select:focus {
         scrollbar-width: none; 
         -ms-overflow-style: none;
         width: 85%;
-        max-width: 500px
-        
+        max-width: 500px     
     }
 
     select {
