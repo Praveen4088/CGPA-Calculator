@@ -137,6 +137,7 @@ select:focus {
 
     select {
         font-size: 14px; 
+        text-align: start;
     }
     
     select option {
@@ -199,6 +200,10 @@ select:focus {
 
     h1 {
         font-size: 20px;
+    }
+    select {
+        font-size: 14px; 
+        text-align: start;
     }
 }
 
