@@ -117,9 +117,17 @@ select:focus {
         padding: 30px;
     }
 
+    select {
+        font-size: 16px; 
+    }
+    
+    select option {
+        font-size: 16px; 
+    }
+
    
 
-    input[type="text"], input[type="number"], textarea, select {
+    input[type="text"], input[type="number"], textarea {
         width: calc(100% - 18px); 
     }
 
